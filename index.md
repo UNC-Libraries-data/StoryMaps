@@ -1,3 +1,3 @@
 ## Story Maps Files
-[Frank Lloyd Wright](StoryMap_FLW3.zip)  
+[Frank Lloyd Wright](StoryMapFiles_FLW3.zip)  
 [Research Hub Story](ResearchHub.zip)

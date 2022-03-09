@@ -1,6 +1,6 @@
 ## Story Maps Files
 
-[National Parks](NP Story Maps.zip)
+[National Parks](NP_Story_Maps.zip)
 
 [Frank Lloyd Wright](StoryMapFiles_FLW.zip) 
 

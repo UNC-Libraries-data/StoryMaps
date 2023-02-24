@@ -1,10 +1,8 @@
-## Getting Started with ArcGIS Online
+## Getting Started with ArcGIS
 
-[Set Up an ArcGIS Online Account]
+[Set Up ArcGIS Pro](getting_started.md)
 
-[Set Up ArcGIS PRO]
-
-[What is GIS?] (https://researchguides.library.wisc.edu/GIS)
+[What is GIS](https://researchguides.library.wisc.edu/GIS)
 
 ## Story Maps Files
 

@@ -6,7 +6,7 @@ To create an organizational account, follow these steps:
 
 1. "Sign in" at [arcgis.com](https://www.arcgis.com/index.html)
 2. Click "Your ArcGIS organization's URL" under "ArcGIS login"
-3. type in "unc" before the "maps.arcgis.com" option
+3. Type in "unc" before the "maps.arcgis.com" option and press ENTER
 4. Select "UNC Chapel Hill SSO"
 5. Sign in with your Onyen and Onyen password
 

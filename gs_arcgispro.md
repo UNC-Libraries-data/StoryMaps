@@ -20,5 +20,5 @@ You may notice that these pages have instructions for accessing ArcGIS Pro on th
 
  
 
-If anyone has questions about accessing ArcGIS Pro for the workshop, please let me know. 
+If anyone has questions about accessing ArcGIS Pro for the workshop, please contact our [GIS Librarian](https://library.unc.edu/data/gis-assistance/)
 

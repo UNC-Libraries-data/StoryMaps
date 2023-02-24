@@ -1,8 +1,10 @@
 ## Getting Started with ArcGIS
 
-[Set Up ArcGIS Pro](gs_arcgisonline.md)
+[Set Up ArcGIS Pro](gs_arcgispro.md)
 
-[Set Up ArcGIS Online Account](gs_arcgispro.md)
+[Set Up ArcGIS Online Account](gs_arcgisonline.md)
+
+[GIS Software Guide from UNC Libraries](https://guides.lib.unc.edu/software/software)
 
 ## More Resources
 
@@ -10,7 +12,7 @@
 
 [GIS Basics with ESRI](https://www.esri.com/training/catalog/5d9cd7de5edc347a71611ccc/gis-basics/)
 
-[GIS Software Guide from UNC Libraries](https://guies.lib.unc.edu/software/software)
+[Geographic Information Systems explained by National Geographic](https://education.nationalgeographic.org/resource/geographic-information-system-gis/)
 
 ## Story Maps Files
 

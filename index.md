@@ -16,7 +16,9 @@
 
 ## Story Maps Files
 
-[Spring 2023 StoryMaps Workshop.zip](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:ba0b770e-12e0-4577-820f-b7a2deef96a8)
+[Spring 2023 StoryMaps Workshop.zip](Spring_2023_StoryMaps_Workshop.zip)
+
+[Mapping Queer Rochester NY](Mapping_Queer_Rochester_NY.zip)
 
 [Treasures of Ireland](IrelandTreasure.zip)
 

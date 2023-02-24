@@ -6,7 +6,7 @@
 
 [GIS Software Guide from UNC Libraries](https://guides.lib.unc.edu/software/software)
 
-## More Resources
+### More Resources
 
 [What is GIS](https://researchguides.library.wisc.edu/GIS)
 

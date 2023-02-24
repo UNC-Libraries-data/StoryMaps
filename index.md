@@ -16,6 +16,8 @@
 
 ## Story Maps Files
 
+[Spring 2023 StoryMaps Workshop.zip](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:ba0b770e-12e0-4577-820f-b7a2deef96a8)
+
 [Treasures of Ireland](IrelandTreasure.zip)
 
 [National Parks](NP_Story_Maps.zip)
@@ -23,3 +25,5 @@
 [Frank Lloyd Wright](StoryMapFiles_FLW.zip) 
 
 [Research Hub Story](ResearchHub.zip)
+
+[ArcGIS_Pro_2021_2022.zip](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:51b1bf26-e409-4bbf-af04-36d29f7b5c07)

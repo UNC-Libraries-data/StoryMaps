@@ -16,7 +16,7 @@
 
 ## Story Maps Files
 
-[Spanish Around the World](Spanish Language.zip)
+[Spanish Around the World](Spanish_Language.zip)
 
 [Spring 2023 StoryMaps Workshop.zip](Spring_2023_StoryMaps_Workshop.zip)
 

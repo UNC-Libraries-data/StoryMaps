@@ -16,6 +16,8 @@
 
 ## Story Maps Files
 
+[Spanish Around the World](Spanish Language.zip)
+
 [Spring 2023 StoryMaps Workshop.zip](Spring_2023_StoryMaps_Workshop.zip)
 
 [Mapping Queer Rochester NY](Mapping_Queer_Rochester_NY.zip)

@@ -1,4 +1,4 @@
-[StoryMaps](https://storymaps.arcgis.com/)
+[StoryMaps with ArcGIS](https://storymaps.arcgis.com/)
 
 ## Getting Started with ArcGIS
 

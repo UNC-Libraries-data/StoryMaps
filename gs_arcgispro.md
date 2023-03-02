@@ -5,13 +5,13 @@ If anyone has questions about accessing ArcGIS Pro for the workshop, please cont
 
 ### If you are an UNC-Chapel Hill Affliate
 
-To follow along during the workshop, you will want to ensure that you have access to ArcGIS Pro before the start of the session. As a reminder, we are only able to facilitate access to ArcGIS Pro for UNC-Chapel Hill affiliates. For some participants your academic institution (if applicable) may be able to facilitate access. For all others, 21-day free trials are available through ESRI here: https://www.esri.com/en-us/arcgis/products/arcgis-pro/trial. Individual licenses for ArcGIS Pro (currently 100 USD/year until December 31, 2020) are available as well: https://www.esri.com/en-us/arcgis/products/arcgis-pro/buy.  
+To follow along during the workshop, you will want to ensure that you have access to ArcGIS Pro before the start of the session. As a reminder, we are only able to facilitate access to ArcGIS Pro for UNC-Chapel Hill affiliates. For some participants your academic institution (if applicable) may be able to facilitate access. For all others, 21-day free trials are available through ESRI here: [https://www.esri.com/en-us/arcgis/products/arcgis-pro/trial](https://www.esri.com/en-us/arcgis/products/arcgis-pro/trial). Individual licenses for ArcGIS Pro (currently 100 USD/year until December 31, 2020) are available as well: [https://www.esri.com/en-us/arcgis/products/arcgis-pro/buy](https://www.esri.com/en-us/arcgis/products/arcgis-pro/buy).  
 
-For UNC-Chapel Hill staff, students, or faculty members, ArcGIS Pro can be accessed in one of two ways. Instructions for both can be found on our GIS Software Guide: https://guides.lib.unc.edu/software/software  
+For UNC-Chapel Hill staff, students, or faculty members, ArcGIS Pro can be accessed in one of two ways. Instructions for both can be found on our GIS Software Guide: [https://guides.lib.unc.edu/software/software](https://guides.lib.unc.edu/software/software)  
 
 **(1) Download ArcGIS Pro to your machine**
 
-First, check that your machine meets the hardware requirements: https://pro.arcgis.com/en/pro-app/get-started/arcgis-pro-system-requirements.htm  
+First, check that your machine meets the hardware requirements: [https://pro.arcgis.com/en/pro-app/get-started/arcgis-pro-system-requirements.htm](https://pro.arcgis.com/en/pro-app/get-started/arcgis-pro-system-requirements.htm)
 
 Instructions for download can be found on the GIS Software Guide, under the box titled “Licensed GIS Software”
 
@@ -27,4 +27,4 @@ You may notice that these pages have instructions for accessing ArcGIS Pro on th
 
 (1) If you are an affiliate with another academic institution, you may have access to ArcGIS Pro facilitated through them. Contact your software acquisition department/IT department/GIS Librarian, depending on the infrastructure at your institution.
 
-(2) If you do not have access to ArcGIS Pro through another organization, 21-day free trials are available through ESRI here: https://www.esri.com/en-us/arcgis/products/arcgis-pro/trial. Individual licenses for ArcGIS Pro (currently 100 USD/year until further notice) are available as well: https://www.esri.com/en-us/arcgis/products/arcgis-pro/buy
+(2) If you do not have access to ArcGIS Pro through another organization, 21-day free trials are available through ESRI here: [https://www.esri.com/en-us/arcgis/products/arcgis-pro/trial](https://www.esri.com/en-us/arcgis/products/arcgis-pro/trial). Individual licenses for ArcGIS Pro (currently 100 USD/year until further notice) are available as well: [https://www.esri.com/en-us/arcgis/products/arcgis-pro/buy](https://www.esri.com/en-us/arcgis/products/arcgis-pro/buy)

@@ -1,3 +1,3 @@
-# Creating a Story Map With ArcGIS Online
+<h1>Creating a Story Map With ArcGIS Online</h1>
 
-[Files for Video - National Parks](NP_Story_Maps.zip)
+<a href="NP_Story_Maps.zip">Files for Video - National Parks</a>

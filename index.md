@@ -26,6 +26,8 @@
 
 ### Additional Data & Files to Practice with StoryMaps
 
+[Locations in the Odyssey](OdysseyStoryMap.zip)
+
 [Spanish Around the World](Spanish_Language.zip)
 
 [Treasures of Ireland](IrelandTreasure.zip)
